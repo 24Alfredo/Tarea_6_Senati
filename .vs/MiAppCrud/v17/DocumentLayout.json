@@ -3,76 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\views\\ordenlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\ordenlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\services\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\services\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\views\\ordenlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\ordenlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\views\\ordeneditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\ordeneditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\views\\ordeneditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\ordeneditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\controllers\\ordencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\controllers\\ordencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\services\\ordenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\services\\ordenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\models\\orden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\models\\orden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MiAppCrud\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\views\\proveedorlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\proveedorlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\views\\proveedorlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\proveedorlistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\views\\proveedoreditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\proveedoreditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\views\\proveedoreditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\proveedoreditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\controllers\\proveedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\services\\proveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\services\\proveedorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\views\\productolistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\productolistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\views\\productolistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\productolistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\views\\productoeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,6 +43,10 @@
       "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\services\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\services\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -95,124 +55,48 @@
       "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\views\\tiendalistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\tiendalistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\views\\tiendalistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\tiendalistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\views\\tiendaeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\tiendaeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\views\\tiendaeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\tiendaeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\services\\tiendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\services\\tiendaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\controllers\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\controllers\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\models\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\models\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\views\\compraeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\compraeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\services\\compraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\services\\compraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\views\\compralistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\compralistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\views\\compralistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\compralistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\views\\productolistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\productolistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\views\\compraeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\compraeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\views\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\views\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\views\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\platforms\\windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\platforms\\windows\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\platforms\\maccatalyst\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\platforms\\maccatalyst\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\platforms\\ios\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\platforms\\ios\\appdelegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\repositories\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\repositories\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\repositories\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\repositories\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\repositories\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|c:\\users\\msi\\source\\repos\\miappcrud\\miappcrud\\models\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BB8186C-E14F-441C-8551-317652F10B43}|MiAppCrud\\MiAppCrud.csproj|solutionrelative:miappcrud\\models\\tienda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -226,247 +110,19 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrdenListPage.xaml",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\OrdenListPage.xaml",
-              "RelativeDocumentMoniker": "MiAppCrud\\Views\\OrdenListPage.xaml",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\OrdenListPage.xaml",
-              "RelativeToolTip": "MiAppCrud\\Views\\OrdenListPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-24T20:48:47.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrdenEditPage.xaml",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\OrdenEditPage.xaml",
-              "RelativeDocumentMoniker": "MiAppCrud\\Views\\OrdenEditPage.xaml",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\OrdenEditPage.xaml",
-              "RelativeToolTip": "MiAppCrud\\Views\\OrdenEditPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-24T20:48:28.871Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OrdenService.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Services\\OrdenService.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Services\\OrdenService.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Services\\OrdenService.cs",
-              "RelativeToolTip": "MiAppCrud\\Services\\OrdenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T20:48:08.902Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OrdenController.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Controllers\\OrdenController.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Controllers\\OrdenController.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Controllers\\OrdenController.cs",
-              "RelativeToolTip": "MiAppCrud\\Controllers\\OrdenController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T20:47:54.772Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Orden.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Models\\Orden.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Models\\Orden.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Models\\Orden.cs",
-              "RelativeToolTip": "MiAppCrud\\Models\\Orden.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T20:47:46.452Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ProveedorController.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Controllers\\ProveedorController.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Controllers\\ProveedorController.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Controllers\\ProveedorController.cs",
-              "RelativeToolTip": "MiAppCrud\\Controllers\\ProveedorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T20:41:19.29Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DataBase.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Services\\DataBase.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Services\\DataBase.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Services\\DataBase.cs",
-              "RelativeToolTip": "MiAppCrud\\Services\\DataBase.cs",
-              "ViewState": "AgIAAG4AAAAAAAAAAAAAAEYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T15:15:13.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Proveedor.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Models\\Proveedor.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Models\\Proveedor.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Models\\Proveedor.cs",
-              "RelativeToolTip": "MiAppCrud\\Models\\Proveedor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T20:41:27.803Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\AppShell.xaml",
-              "RelativeDocumentMoniker": "MiAppCrud\\AppShell.xaml",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\AppShell.xaml",
-              "RelativeToolTip": "MiAppCrud\\AppShell.xaml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\App.xaml",
+              "RelativeDocumentMoniker": "MiAppCrud\\App.xaml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\App.xaml",
+              "RelativeToolTip": "MiAppCrud\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-24T16:08:41.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OrdenListPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\OrdenListPage.xaml.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Views\\OrdenListPage.xaml.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\OrdenListPage.xaml.cs",
-              "RelativeToolTip": "MiAppCrud\\Views\\OrdenListPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T20:53:19.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrdenEditPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\OrdenEditPage.xaml.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Views\\OrdenEditPage.xaml.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\OrdenEditPage.xaml.cs",
-              "RelativeToolTip": "MiAppCrud\\Views\\OrdenEditPage.xaml.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAswCwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T20:49:31.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T21:44:06.731Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "App.g.i.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "RelativeToolTip": "MiAppCrud\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAgwEoAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T20:10:04.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProveedorEditPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\ProveedorEditPage.xaml.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Views\\ProveedorEditPage.xaml.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\ProveedorEditPage.xaml.cs",
-              "RelativeToolTip": "MiAppCrud\\Views\\ProveedorEditPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T20:43:22.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProveedorListPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\ProveedorListPage.xaml.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Views\\ProveedorListPage.xaml.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\ProveedorListPage.xaml.cs",
-              "RelativeToolTip": "MiAppCrud\\Views\\ProveedorListPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T20:43:35.655Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProveedorEditPage.xaml",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\ProveedorEditPage.xaml",
-              "RelativeDocumentMoniker": "MiAppCrud\\Views\\ProveedorEditPage.xaml",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\ProveedorEditPage.xaml",
-              "RelativeToolTip": "MiAppCrud\\Views\\ProveedorEditPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-24T20:42:39.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProveedorListPage.xaml",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\ProveedorListPage.xaml",
-              "RelativeDocumentMoniker": "MiAppCrud\\Views\\ProveedorListPage.xaml",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\ProveedorListPage.xaml",
-              "RelativeToolTip": "MiAppCrud\\Views\\ProveedorListPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-24T20:42:05.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ProveedorService.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Services\\ProveedorService.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Services\\ProveedorService.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Services\\ProveedorService.cs",
-              "RelativeToolTip": "MiAppCrud\\Services\\ProveedorService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T20:41:45.084Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Models\\Producto.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Models\\Producto.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Models\\Producto.cs",
-              "RelativeToolTip": "MiAppCrud\\Models\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T18:42:43.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ProductoController.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Controllers\\ProductoController.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Controllers\\ProductoController.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Controllers\\ProductoController.cs",
-              "RelativeToolTip": "MiAppCrud\\Controllers\\ProductoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAABBwCMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T18:43:05.907Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
               "Title": "ProductoService.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Services\\ProductoService.cs",
               "RelativeDocumentMoniker": "MiAppCrud\\Services\\ProductoService.cs",
@@ -474,38 +130,59 @@
               "RelativeToolTip": "MiAppCrud\\Services\\ProductoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T18:43:17.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T21:35:52.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ProductoEditPage.xaml",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\ProductoEditPage.xaml",
-              "RelativeDocumentMoniker": "MiAppCrud\\Views\\ProductoEditPage.xaml",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\ProductoEditPage.xaml",
-              "RelativeToolTip": "MiAppCrud\\Views\\ProductoEditPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-24T18:43:32.335Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ProductoEditPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\ProductoEditPage.xaml.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Views\\ProductoEditPage.xaml.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\ProductoEditPage.xaml.cs",
-              "RelativeToolTip": "MiAppCrud\\Views\\ProductoEditPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "MiAppCrud\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T18:43:36.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T21:35:27.802Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 12,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Models\\Producto.cs",
+              "RelativeToolTip": "MiAppCrud\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:34:11.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\App.xaml.cs",
+              "RelativeToolTip": "MiAppCrud\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:47:41.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\AppShell.xaml",
+              "RelativeDocumentMoniker": "MiAppCrud\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\AppShell.xaml",
+              "RelativeToolTip": "MiAppCrud\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-25T19:57:58.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ProductoListPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\ProductoListPage.xaml.cs",
               "RelativeDocumentMoniker": "MiAppCrud\\Views\\ProductoListPage.xaml.cs",
@@ -513,116 +190,49 @@
               "RelativeToolTip": "MiAppCrud\\Views\\ProductoListPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T18:43:46.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T21:39:36.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 14,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Models\\Categoria.cs",
+              "RelativeToolTip": "MiAppCrud\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:50:24.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\MainPage.xaml",
               "RelativeDocumentMoniker": "MiAppCrud\\MainPage.xaml",
               "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\MainPage.xaml",
               "RelativeToolTip": "MiAppCrud\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-09-24T17:30:08.979Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "TiendaListPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\TiendaListPage.xaml.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Views\\TiendaListPage.xaml.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\TiendaListPage.xaml.cs",
-              "RelativeToolTip": "MiAppCrud\\Views\\TiendaListPage.xaml.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\MainPage.xaml.cs",
+              "RelativeToolTip": "MiAppCrud\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T20:32:08.681Z",
+              "WhenOpened": "2024-09-24T17:30:12.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "TiendaListPage.xaml",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\TiendaListPage.xaml",
-              "RelativeDocumentMoniker": "MiAppCrud\\Views\\TiendaListPage.xaml",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\TiendaListPage.xaml",
-              "RelativeToolTip": "MiAppCrud\\Views\\TiendaListPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-24T20:32:00.52Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "TiendaEditPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\TiendaEditPage.xaml.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Views\\TiendaEditPage.xaml.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\TiendaEditPage.xaml.cs",
-              "RelativeToolTip": "MiAppCrud\\Views\\TiendaEditPage.xaml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAwwDUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T20:31:09.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "TiendaEditPage.xaml",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\TiendaEditPage.xaml",
-              "RelativeDocumentMoniker": "MiAppCrud\\Views\\TiendaEditPage.xaml",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\TiendaEditPage.xaml",
-              "RelativeToolTip": "MiAppCrud\\Views\\TiendaEditPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-24T20:30:03.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "TiendaController.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Controllers\\TiendaController.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Controllers\\TiendaController.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Controllers\\TiendaController.cs",
-              "RelativeToolTip": "MiAppCrud\\Controllers\\TiendaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T20:28:21.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Tienda.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Models\\Tienda.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Models\\Tienda.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Models\\Tienda.cs",
-              "RelativeToolTip": "MiAppCrud\\Models\\Tienda.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T20:26:57.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\App.xaml.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\App.xaml.cs",
-              "RelativeToolTip": "MiAppCrud\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T19:47:41.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 6,
               "Title": "ProductoListPage.xaml",
               "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\ProductoListPage.xaml",
               "RelativeDocumentMoniker": "MiAppCrud\\Views\\ProductoListPage.xaml",
@@ -630,64 +240,51 @@
               "RelativeToolTip": "MiAppCrud\\Views\\ProductoListPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-24T18:43:41.934Z",
+              "WhenOpened": "2024-09-25T21:36:13.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "AppShell.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\AppShell.xaml.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\AppShell.xaml.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\AppShell.xaml.cs",
-              "RelativeToolTip": "MiAppCrud\\AppShell.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T17:25:42.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "TiendaService.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Services\\TiendaService.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Services\\TiendaService.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Services\\TiendaService.cs",
-              "RelativeToolTip": "MiAppCrud\\Services\\TiendaService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T16:20:12.269Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "CompraService.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Services\\CompraService.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Services\\CompraService.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Services\\CompraService.cs",
-              "RelativeToolTip": "MiAppCrud\\Services\\CompraService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T19:53:30.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\App.xaml",
-              "RelativeDocumentMoniker": "MiAppCrud\\App.xaml",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\App.xaml",
-              "RelativeToolTip": "MiAppCrud\\App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "ProductoEditPage.xaml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\ProductoEditPage.xaml",
+              "RelativeDocumentMoniker": "MiAppCrud\\Views\\ProductoEditPage.xaml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\ProductoEditPage.xaml",
+              "RelativeToolTip": "MiAppCrud\\Views\\ProductoEditPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-24T17:24:41.626Z",
+              "WhenOpened": "2024-09-25T21:36:26.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 7,
+              "Title": "ProductoEditPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\ProductoEditPage.xaml.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Views\\ProductoEditPage.xaml.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\ProductoEditPage.xaml.cs",
+              "RelativeToolTip": "MiAppCrud\\Views\\ProductoEditPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:39:14.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CompraController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Controllers\\CompraController.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Controllers\\CompraController.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Controllers\\CompraController.cs",
+              "RelativeToolTip": "MiAppCrud\\Controllers\\CompraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:50:03.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Compra.cs",
               "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Models\\Compra.cs",
               "RelativeDocumentMoniker": "MiAppCrud\\Models\\Compra.cs",
@@ -695,215 +292,124 @@
               "RelativeToolTip": "MiAppCrud\\Models\\Compra.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T18:39:17.64Z",
+              "WhenOpened": "2024-09-25T19:49:50.288Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "LoginPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\LoginPage.xaml.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Views\\LoginPage.xaml.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\LoginPage.xaml.cs",
-              "RelativeToolTip": "MiAppCrud\\Views\\LoginPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T14:56:56.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "RegisterPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\RegisterPage.xaml.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Views\\RegisterPage.xaml.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\RegisterPage.xaml.cs",
-              "RelativeToolTip": "MiAppCrud\\Views\\RegisterPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T14:58:01.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "RegisterPage.xaml",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\RegisterPage.xaml",
-              "RelativeDocumentMoniker": "MiAppCrud\\Views\\RegisterPage.xaml",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\RegisterPage.xaml",
-              "RelativeToolTip": "MiAppCrud\\Views\\RegisterPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-24T14:57:56.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "LoginPage.xaml",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\LoginPage.xaml",
-              "RelativeDocumentMoniker": "MiAppCrud\\Views\\LoginPage.xaml",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\LoginPage.xaml",
-              "RelativeToolTip": "MiAppCrud\\Views\\LoginPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-24T14:56:37.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "MiAppCrud\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowDIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T15:55:51.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "AppDelegate.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Platforms\\MacCatalyst\\AppDelegate.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Platforms\\MacCatalyst\\AppDelegate.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Platforms\\MacCatalyst\\AppDelegate.cs",
-              "RelativeToolTip": "MiAppCrud\\Platforms\\MacCatalyst\\AppDelegate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T17:20:00.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "MainApplication.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Platforms\\Android\\MainApplication.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Platforms\\Android\\MainApplication.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Platforms\\Android\\MainApplication.cs",
-              "RelativeToolTip": "MiAppCrud\\Platforms\\Android\\MainApplication.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T17:19:29.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Platforms\\Windows\\App.xaml.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Platforms\\Windows\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Platforms\\Windows\\App.xaml.cs",
-              "RelativeToolTip": "MiAppCrud\\Platforms\\Windows\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T17:58:39.799Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Services\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Services\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Services\\UsuarioService.cs",
-              "RelativeToolTip": "MiAppCrud\\Services\\UsuarioService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T14:55:30.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\MauiProgram.cs",
-              "RelativeToolTip": "MiAppCrud\\MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T15:59:49.621Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "AppDelegate.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Platforms\\iOS\\AppDelegate.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Platforms\\iOS\\AppDelegate.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Platforms\\iOS\\AppDelegate.cs",
-              "RelativeToolTip": "MiAppCrud\\Platforms\\iOS\\AppDelegate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T17:19:41.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\MainPage.xaml.cs",
-              "RelativeToolTip": "MiAppCrud\\MainPage.xaml.cs",
+              "DocumentIndex": 23,
+              "Title": "Tienda.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Models\\Tienda.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Models\\Tienda.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Models\\Tienda.cs",
+              "RelativeToolTip": "MiAppCrud\\Models\\Tienda.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T17:30:12.071Z",
+              "WhenOpened": "2024-09-25T19:49:44.076Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Repositories\\IUsuarioRepository.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Repositories\\IUsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Repositories\\IUsuarioRepository.cs",
-              "RelativeToolTip": "MiAppCrud\\Repositories\\IUsuarioRepository.cs",
+              "DocumentIndex": 10,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Services\\DataBase.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Services\\DataBase.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Services\\DataBase.cs",
+              "RelativeToolTip": "MiAppCrud\\Services\\DataBase.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:46:28.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TiendaService.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Services\\TiendaService.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Services\\TiendaService.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Services\\TiendaService.cs",
+              "RelativeToolTip": "MiAppCrud\\Services\\TiendaService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T15:50:36.326Z",
+              "WhenOpened": "2024-09-25T19:48:53.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Repositories\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Repositories\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Repositories\\UsuarioRepository.cs",
-              "RelativeToolTip": "MiAppCrud\\Repositories\\UsuarioRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T15:50:41.927Z",
+              "DocumentIndex": 20,
+              "Title": "CompraListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\CompraListPage.xaml",
+              "RelativeDocumentMoniker": "MiAppCrud\\Views\\CompraListPage.xaml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\CompraListPage.xaml",
+              "RelativeToolTip": "MiAppCrud\\Views\\CompraListPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-25T19:50:51.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "IPasswordHasher.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Repositories\\IPasswordHasher.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Repositories\\IPasswordHasher.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Repositories\\IPasswordHasher.cs",
-              "RelativeToolTip": "MiAppCrud\\Repositories\\IPasswordHasher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "MiAppCrud\\Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T16:01:58.366Z",
+              "WhenOpened": "2024-09-25T19:49:27.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "PasswordHasher.cs",
-              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Repositories\\PasswordHasher.cs",
-              "RelativeDocumentMoniker": "MiAppCrud\\Repositories\\PasswordHasher.cs",
-              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Repositories\\PasswordHasher.cs",
-              "RelativeToolTip": "MiAppCrud\\Repositories\\PasswordHasher.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "CompraService.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Services\\CompraService.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Services\\CompraService.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Services\\CompraService.cs",
+              "RelativeToolTip": "MiAppCrud\\Services\\CompraService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T16:02:41.339Z",
+              "WhenOpened": "2024-09-25T19:50:17.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CompraEditPage.xaml",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\CompraEditPage.xaml",
+              "RelativeDocumentMoniker": "MiAppCrud\\Views\\CompraEditPage.xaml",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\CompraEditPage.xaml",
+              "RelativeToolTip": "MiAppCrud\\Views\\CompraEditPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-25T19:50:39.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CompraEditPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\CompraEditPage.xaml.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Views\\CompraEditPage.xaml.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\CompraEditPage.xaml.cs",
+              "RelativeToolTip": "MiAppCrud\\Views\\CompraEditPage.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:50:45.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CompraListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\CompraListPage.xaml.cs",
+              "RelativeDocumentMoniker": "MiAppCrud\\Views\\CompraListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\MSI\\source\\repos\\MiAppCrud\\MiAppCrud\\Views\\CompraListPage.xaml.cs",
+              "RelativeToolTip": "MiAppCrud\\Views\\CompraListPage.xaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:50:56.726Z",
               "EditorCaption": ""
             }
           ]
