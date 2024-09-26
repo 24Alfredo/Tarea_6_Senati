@@ -227,8 +227,7 @@
               "RelativeToolTip": "MiAppCrud\\MainPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T17:30:12.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-24T17:30:12.071Z"
             },
             {
               "$type": "Document",
@@ -240,8 +239,7 @@
               "RelativeToolTip": "MiAppCrud\\Views\\ProductoListPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-25T21:36:13.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T21:36:13.634Z"
             },
             {
               "$type": "Document",
@@ -253,8 +251,7 @@
               "RelativeToolTip": "MiAppCrud\\Views\\ProductoEditPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-25T21:36:26.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T21:36:26.093Z"
             },
             {
               "$type": "Document",
@@ -266,8 +263,7 @@
               "RelativeToolTip": "MiAppCrud\\Views\\ProductoEditPage.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T21:39:14.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T21:39:14.604Z"
             },
             {
               "$type": "Document",
@@ -279,8 +275,7 @@
               "RelativeToolTip": "MiAppCrud\\Controllers\\CompraController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T19:50:03.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T19:50:03.559Z"
             },
             {
               "$type": "Document",
@@ -292,8 +287,7 @@
               "RelativeToolTip": "MiAppCrud\\Models\\Compra.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T19:49:50.288Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T19:49:50.288Z"
             },
             {
               "$type": "Document",
@@ -305,8 +299,7 @@
               "RelativeToolTip": "MiAppCrud\\Models\\Tienda.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T19:49:44.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T19:49:44.076Z"
             },
             {
               "$type": "Document",
@@ -318,8 +311,7 @@
               "RelativeToolTip": "MiAppCrud\\Services\\DataBase.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAiwBEAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T19:46:28.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T19:46:28.134Z"
             },
             {
               "$type": "Document",
@@ -331,8 +323,7 @@
               "RelativeToolTip": "MiAppCrud\\Services\\TiendaService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T19:48:53.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T19:48:53.38Z"
             },
             {
               "$type": "Document",
@@ -344,8 +335,7 @@
               "RelativeToolTip": "MiAppCrud\\Views\\CompraListPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-25T19:50:51.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T19:50:51.322Z"
             },
             {
               "$type": "Document",
@@ -357,8 +347,7 @@
               "RelativeToolTip": "MiAppCrud\\Controllers\\CategoriaController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T19:49:27.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T19:49:27.291Z"
             },
             {
               "$type": "Document",
@@ -370,8 +359,7 @@
               "RelativeToolTip": "MiAppCrud\\Services\\CompraService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T19:50:17.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T19:50:17.098Z"
             },
             {
               "$type": "Document",
@@ -383,8 +371,7 @@
               "RelativeToolTip": "MiAppCrud\\Views\\CompraEditPage.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-25T19:50:39.727Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T19:50:39.727Z"
             },
             {
               "$type": "Document",
@@ -396,8 +383,7 @@
               "RelativeToolTip": "MiAppCrud\\Views\\CompraEditPage.xaml.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwCEAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T19:50:45.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T19:50:45.708Z"
             },
             {
               "$type": "Document",
@@ -409,8 +395,7 @@
               "RelativeToolTip": "MiAppCrud\\Views\\CompraListPage.xaml.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-25T19:50:56.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-25T19:50:56.726Z"
             }
           ]
         }
